@@ -8,6 +8,6 @@
 
 ## <p align="center"> My skills: </p>
 <div align="center">
-🌈 **HTML**  •  🤙 **CSS**  •  💊 **SASS**  •  🦘 **Bootstrap**  •  🗡️ **JavaScript**  •  ☄️ **React**  •  🐞 **A11y**  •  🪐 **Git** 
+🌈 HTML  •  🤙 CSS  •  💊 SASS  •  🦘 Bootstrap  •  🗡️ JavaScript  •  ☄️ React  •  🐞 A11y  •  🪐 Git 
 </div>
 
