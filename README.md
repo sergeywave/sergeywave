@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.tenor.com/PFmTN28CoekAAAAC/hacker-typing.gif" alt="Анимированная GIF" width="200">
-</div>
-
 # <p align="center">Hi there, my name is Sergey! </p>
 ### <p align="center">I'm a frontend developer.</p>
 ### <p align="center">I enjoy developing user-friendly interfaces 🖤 and playing basketball 🏀 </p> <br>   
